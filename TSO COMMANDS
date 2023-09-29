@@ -1,0 +1,5 @@
+--Type below command in command line in ISPF homescreen - to see user details and access.
+TSO LU <racfid> 
+
+--To cancel a user session - type in 'start 6' screen (command screen)
+TSO CU <racfid> 
